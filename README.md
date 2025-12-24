@@ -107,15 +107,8 @@ Nitin Kumar is a WordPress Full-Stack Developer specializing in creating beautif
 
 - 50+ Projects Completed
 - 30+ Clients Served
-- 7 Years Experience
-- 8 Published WordPress Plugins
-
-## Color Scheme
-
-- Primary: #00d4ff (Cyan)
-- Secondary: #7c3aed (Purple)
-- Accent: #ec4899 (Pink)
-- Background: #0a0e27 (Dark Blue)
+- 6+ Years Experience
+- 8+ Published WordPress Plugins
 
 Made with by Nitin Kumar
 
